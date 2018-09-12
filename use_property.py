@@ -1,3 +1,4 @@
+#@property将方法变为属性
 class Screen(object):
 	@property
 	def width(self):
